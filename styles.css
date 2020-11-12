@@ -1,0 +1,56 @@
+body {
+    background-color: #6975A5;
+    font-family: 'Lobster', cursive;
+}
+
+h1 {
+    text-align: center;
+    color: #F28a30;
+    font-size: 60px;
+    margin: 0;
+}
+
+table {
+    background-color: "#6975A5";
+}
+
+
+#droptable {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#maintable {
+    margin-left: auto;
+    margin-right: auto;
+    border: #F28a30;
+    border-width: 3px;
+    border-style: solid;
+    vertical-align: middle;
+    border-radius: 2.5%;
+    padding: 3px
+}
+
+.column {
+    font-size: 0rem;
+    padding: 1rem;
+    border-radius: 50%;;
+    text-align: center;
+    padding: 5px;
+    height: 4rem;
+    width: 4rem;
+    -webkit-user-drag: none;
+    cursor: none;
+}
+
+.drop {
+    font-size: 0rem;
+    padding: 1rem;
+    border-radius: 50%;
+    text-align: center;
+    padding: 5px;
+    height: 4rem;
+    width: 4rem;
+    opacity: 50%;
+}
+
